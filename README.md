@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
 - 🌱 I’m currently learning : AWS Solution Architecture Associate, ISO 27001 (ISMS) and Cobit Framework
 
-- 👯 I’m looking to collaborate on any challenging tasks ,working Kubernates and Big Data. Basically Learning More
+- 👯 I’m looking to collaborate on any challenging tasks ,including Kubernates and Big Data. Basically Learning More
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Programming Language" width="40" height="40"/>&nbsp;
