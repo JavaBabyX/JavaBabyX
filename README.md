@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JavaBabyX&theme=dark&hide_border=true&mode=weekly&background=45%2C431818%2CA13A3A)](https://git.io/streak-stats)
 
 <div><br></div>
-![](https://visitor-badge.laobi.icu/badge?page_id=javaBabyX.JavaBabyX)
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=javaBabyX.JavaBabyX)
 
 Other stats listed below
 
